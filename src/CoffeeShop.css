@@ -1,0 +1,84 @@
+/* CoffeeShop.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* Base styles */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Custom scrollbar for cart */
+.overflow-y-auto::-webkit-scrollbar {
+  width: 6px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.overflow-y-auto::-webkit-scrollbar-thumb {
+  background: #b45309;
+  border-radius: 3px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-thumb:hover {
+  background: #92400e;
+}
+
+/* Smooth scrolling for anchor links with fixed header offset */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px; /* Adjust this value based on your header height */
+}
+
+/* Coffee menu card hover effect */
+.bg-white.rounded-lg {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.bg-white.rounded-lg:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* Hero image background - replace with actual image if needed */
+.bg-amber-900 {
+  background-image: linear-gradient(rgba(120, 53, 15, 0.9), rgba(120, 53, 15, 0.5)), url('https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80');
+  background-size: cover;
+  background-position: center;
+}
+
+/* Button hover animations */
+button {
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  transform: translateY(-2px);
+}
+
+
+.border{
+  background-color: rgb(255, 255, 255);
+  border-width: 2px;
+  border-color: #92400e;
+  
+}
+
+input, textarea, select{
+  background-color: rgb(255, 255, 255);
+  border-width: 2px;
+  border-color: #92400e;
+  color: #000000;
+}
+
+
+/* Input focus styles */
+input:focus, textarea:focus, select:focus {
+  outline: none;
+  border-color: #92400e;
+  box-shadow: 0 0 0 3px rgba(180, 83, 9, 0.2);
+}
+
+.border-t{
+  border-top: none;
+}
