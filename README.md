@@ -97,7 +97,7 @@ Cozy-Coffee-Shop-Website/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](#).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](CONTRIBUTING.md).
 
 ## 📜 License
 
