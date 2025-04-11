@@ -28,6 +28,7 @@ A modern, responsive coffee shop website built with React and Tailwind CSS. This
 
 - Node.js (v18.0.0 or higher)
 - npm
+- tailwindcss (v3.4.1)
 
 ## 🔧 Installation & Setup
 
