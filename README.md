@@ -60,7 +60,7 @@ The build artifacts will be stored in the `dist/` directory, ready to be deploye
 ## 🧪 Running Tests
 
 ```bash
-npm run test
+npm run preview
 ```
 
 ## 📂 Project Structure
