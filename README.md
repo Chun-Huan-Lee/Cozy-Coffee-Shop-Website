@@ -1,7 +1,5 @@
 # Cozy & Coffee - React Coffee Shop Website
 
-![Cozy & Coffee Banner](https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80)
-
 A modern, responsive coffee shop website built with React and Tailwind CSS. This project features a beautiful UI with a fixed header, interactive menu cards, and a fully functional shopping cart system with localStorage persistence.
 
 ## 🌟 Features
@@ -112,6 +110,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 
+## 📸 Screenshot
+
+- ### 💻 PC/Laptop
+![Cozy & Coffee Banner](/public/screenshot.png)
+
+- ### 📱 Mobile
+![Cozy & Coffee Banner](/public/screenshot-mobile.png)
 ---
 
-Made with ☕ and ❤️
+Copyright © Chun-Huan Lee 2025
