@@ -14,7 +14,7 @@ A modern, responsive coffee shop website built with React and Tailwind CSS. This
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://chun-huan-lee.github.io/Cozy-Coffee-Shop-Website/)
+[**View Live Demo**](https://chun-huan-lee.github.io/Cozy-Coffee-Shop-Website/)
 
 ## 🛠️ Technologies Used
 
