@@ -66,7 +66,7 @@ npm run test
 ## 📂 Project Structure
 
 ```
-cozy-coffee-shop/
+Coffee-Shop-Website/
 ├── public/                  # Public assets
 │   ├── coffee-logo.svg      # Site logo
 ├── src/                     # Source files
