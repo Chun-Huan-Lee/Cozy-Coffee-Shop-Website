@@ -2,6 +2,7 @@
   "name": "coffee",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://chun-huan-lee.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
