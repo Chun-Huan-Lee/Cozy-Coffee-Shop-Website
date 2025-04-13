@@ -98,7 +98,7 @@ Cozy-Coffee-Shop-Website/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](CONTRIBUTING.md).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Chun-Huan-Lee/Cozy-Coffee-Shop-Website/issues).
 
 ## 📜 License
 
