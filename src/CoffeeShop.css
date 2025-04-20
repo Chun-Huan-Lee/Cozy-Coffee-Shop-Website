@@ -50,6 +50,7 @@ html {
 /* Button hover animations */
 button {
   transition: all 0.3s ease;
+  background-color: #000000;
 }
 
 button:hover {

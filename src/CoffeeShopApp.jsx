@@ -162,7 +162,7 @@ const Header = () => {
         
         {/* Mobile Menu Button */}
         <button 
-          className="md:hidden text-white"
+          className="md:hidden text-white bg-amber-600"
           onClick={() => setIsMenuOpen(!isMenuOpen)}
         >
           {isMenuOpen ? 'Close' : 'Menu'}
@@ -202,8 +202,8 @@ const Header = () => {
       
       {/* Mobile Menu */}
       {isMenuOpen && (
-        <div className="md:hidden bg-amber-900 py-4">
-          <div className="container mx-auto px-4 flex flex-col space-y-3">
+        <div className="md:hidden bg-amber-900 py-0">
+          <div className="container mx-auto px-4 py-4 flex flex-col space-y-3 bg-amber-600">
             <a href="#" className="text-white hover:text-amber-200 transition">Home</a>
             <a href="#menu" className="text-white hover:text-amber-200 transition">Menu</a>
             <a href="#about" className="text-white hover:text-amber-200 transition">About</a>
