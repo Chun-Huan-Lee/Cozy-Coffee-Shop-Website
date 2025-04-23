@@ -2,7 +2,7 @@
 
 A modern, responsive coffee shop website built with React and Tailwind CSS. This project features a beautiful UI with a fixed header, interactive menu cards, and a fully functional shopping cart system with localStorage persistence.
 
-## 🌟 Features
+## Features
 
 - **Responsive Design**: Seamlessly works on mobile, tablet, and desktop devices
 - **Interactive Menu**: Beautifully displayed coffee products with hover effects
@@ -12,11 +12,11 @@ A modern, responsive coffee shop website built with React and Tailwind CSS. This
 - **Smooth Animations**: Subtle animations enhance the user experience
 - **Fixed Header**: Navigation always accessible as you scroll
 
-## 🚀 Live Demo
+## Live Demo
 
 [**View Live Demo**](https://chun-huan-lee.github.io/Cozy-Coffee-Shop-Website/)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React**: Frontend library for building the user interface
 - **Tailwind CSS**: Utility-first CSS framework for styling
@@ -24,13 +24,13 @@ A modern, responsive coffee shop website built with React and Tailwind CSS. This
 - **Vite**: Next-generation frontend tooling
 - **SWC**: Super-fast JavaScript/TypeScript compiler
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Node.js (v18.0.0 or higher)
 - npm
 - tailwindcss (v3.4.1)
 
-## 🔧 Installation & Setup
+## Installation & Setup
 
 1. Clone the repository:
    ```bash
@@ -50,7 +50,7 @@ A modern, responsive coffee shop website built with React and Tailwind CSS. This
 
 4. Open your browser and visit `http://localhost:5173`
 
-## 📦 Building for Production
+## Building for Production
 
 ```bash
 npm run build
@@ -58,13 +58,13 @@ npm run build
 
 The build artifacts will be stored in the `dist/` directory, ready to be deployed.
 
-## 🧪 Running Tests
+## Running Tests
 
 ```bash
 npm run preview
 ```
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Cozy-Coffee-Shop-Website/
@@ -86,7 +86,7 @@ Cozy-Coffee-Shop-Website/
 └── vite.config.js           # Vite configuration
 ```
 
-## 🎯 Future Improvements
+## Future Improvements
 
 - [ ] User authentication system
 - [ ] Admin panel for menu management
@@ -96,27 +96,27 @@ Cozy-Coffee-Shop-Website/
 - [ ] Reviews and ratings system
 - [ ] Newsletter subscription
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Chun-Huan-Lee/Cozy-Coffee-Shop-Website/issues).
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👏 Acknowledgements
+## Acknowledgements
 
 - [Unsplash](https://unsplash.com/) - For the beautiful coffee images
 - [React Documentation](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
 
-## 📸 Screenshot
+## Screenshot
 
-- ### 💻 PC/Laptop
+- ### PC/Laptop
 ![Cozy & Coffee Banner](/public/screenshot.png)
 
-- ### 📱 Mobile
+- ### Mobile
 ![Cozy & Coffee Banner](/public/screenshot-mobile.png)
 ---
 
