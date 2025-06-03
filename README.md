@@ -521,7 +521,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### Special Thanks
 - Coffee shop owners who inspired this design
 - Open source community for amazing tools
-- Contributors who help improve this project
 
 ### Built by
 **[Chun-Huan Lee](https://github.com/Chun-Huan-Lee)**
