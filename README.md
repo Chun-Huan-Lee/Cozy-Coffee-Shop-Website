@@ -1,4 +1,4 @@
-# Cozy & Coffee ☕
+# Cozy & Coffee <img src="/public/coffee-logo.svg" alt="logo" width="32" height="32" style="vertical-align: middle;">
 
 <div align="center">
 <!--   <img src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Cozy & Coffee Banner" width="100%"  style="object-fit: cover; border-radius: 10px;" /> -->
