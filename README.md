@@ -510,14 +510,6 @@ npm run dev -- --port 3000
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-### MIT License Summary
-- ✅ Commercial use
-- ✅ Modification
-- ✅ Distribution
-- ✅ Private use
-- ❌ Liability
-- ❌ Warranty
-
 ## 🙏 Acknowledgments
 
 ### Resources & Inspiration
