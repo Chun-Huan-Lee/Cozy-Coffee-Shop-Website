@@ -11,7 +11,7 @@
     <a href="https://chun-huan-lee.github.io/Cozy-Coffee-Shop-Website/">🌐 Live Demo</a> •
     <a href="#-features">✨ Features</a> •
     <a href="#-quick-start">🚀 Quick Start</a> •
-    <a href="#-documentation">📖 Documentation</a>
+    <a href="#-table-of-contents">📖 Documentation</a>
   </p>
 
   <p align="center">
