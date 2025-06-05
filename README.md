@@ -20,6 +20,8 @@
     <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-6.2.0-646CFF?style=flat-square&logo=vite" alt="Vite" /></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" /></a>
     <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome" /></a>
+    <a href="https://chun-huan-lee.github.io/Cozy-Coffee-Shop-Website/"><img src="https://img.shields.io/badge/website-online-green.svg" alt="Website Online" /></a>
+
   </p>
 </div>
 
